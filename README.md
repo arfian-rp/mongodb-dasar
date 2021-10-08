@@ -1,8 +1,8 @@
 <h1>DATABASE</h1>
 
-`show dbs` //show dbs
-`use dbname` //if db !exist automatic create (after create collection) and use
-`db.dropDatabase()` //delete db
+`show dbs` //show dbs <br>
+`use dbname` //if db !exist automatic create (after create collection) and use <br>
+`db.dropDatabase()` //delete db <br>
 
 <h1>COLLECTION</h1>
 
