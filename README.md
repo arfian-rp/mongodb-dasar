@@ -1,4 +1,4 @@
-<h1>DATABASE</h1>
+<h1>DATABASE MONGODB</h1>
 
 `show dbs` //show dbs <br>
 `use dbname` //if db !exist automatic create (after create collection) and use <br>
